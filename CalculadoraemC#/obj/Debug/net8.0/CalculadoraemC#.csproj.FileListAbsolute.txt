@@ -1,0 +1,4 @@
+C:\Users\eueos\Desktop\CalculadoraemC#\obj\Debug\net8.0\CalculadoraemC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eueos\Desktop\CalculadoraemC#\obj\Debug\net8.0\CalculadoraemC#.AssemblyInfoInputs.cache
+C:\Users\eueos\Desktop\CalculadoraemC#\obj\Debug\net8.0\CalculadoraemC#.AssemblyInfo.cs
+C:\Users\eueos\Desktop\CalculadoraemC#\obj\Debug\net8.0\CalculadoraemC#.csproj.CoreCompileInputs.cache
