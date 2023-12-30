@@ -11,6 +11,4 @@ O resultado por agora é uma calculadora extremamente simplificada, porém funci
 
 ## 💻 Tecnologias
 
->
-> C#
-> 
+<img align="center" alt="Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
